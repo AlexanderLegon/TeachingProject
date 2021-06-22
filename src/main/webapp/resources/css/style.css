@@ -1,16 +1,43 @@
 body{
-    background-color: aquamarine;
+    background-color: antiquewhite;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 p{
     font-family: "monospace";
-}
-
-.navbar-custom{
-    background-color: brown;
-    text-decoration-color: blueviolet;
+    font-family: "BankGothic Lt BT";
 }
 
 .navbar-custom-text{
-    background-color: aqua;
+    background-color: burlywood;
+    text-decoration-color: saddlebrown;
+    text-decoration: saddlebrown;
+}
+
+.navbar-light{
+    font-size: 25px;
+    margin-left: -20px;
+    margin-right: -20px;
+
+}
+
+.tab {
+    margin-left: 40px;
+}
+
+.input-box {
+    width: 50px;
+}
+
+ans {
+    font-size: 200%;
+}
+
+.div-box {
+    background-color: bisque;
+    width: 500px;
+    border: 15px solid burlywood;
+    padding: 50px;
+    margin: 20px;
 }
