@@ -72,12 +72,12 @@
     </div>
 
     <div class="accordion-item">
-        <h2 class="accordion-header" id="headingThree">
+        <h2 class="accordion-header" id="headingFour">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                 Encapsulation
             </button>
         </h2>
-        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+        <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
             <div class="accordion-body">
                 <strong>Encapsulation involved 'information hiding'.</strong> This ensures that variables are kept private only allowing access through getters and setters (methods that allow the variables to be set/changed or received) if required <code>.accordion-body</code>, though the transition does limit overflow.
             </div>
