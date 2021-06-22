@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+}
+
+p{
+    font-family: "monospace";
+}
+
+.navbar-custom{
+    background-color: brown;
+    text-decoration-color: blueviolet;
+}
+
+.navbar-custom-text{
+    background-color: aqua;
+}
